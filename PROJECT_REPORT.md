@@ -1,7 +1,9 @@
 # Project Analysis Report: BSC FlashSwap Arbitrage System
 
 ## Project Overview
-This project implements a. flash loan arbitrage system on the Binance Smart Chain (BSC), leveraging decentralized exchanges (DEXs) like PancakeSwap and ApeSwap The system identifies price discrepancies between DEXs and executes profitable arbitrage trades using flash loans.
+This project implements a. flash loan arbitrage system on the Binance Smart Chain (BSC), leveraging decentralized exchanges (DEXs) like PancakeSwap and ApeSwap 
+
+The system identifies price discrepancies between DEXs and executes profitable arbitrage trades using flash loans.
 
 ## Project Structure
 ```
